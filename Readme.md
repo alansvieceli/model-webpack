@@ -1,0 +1,1 @@
+https://github.com/alansvieceli/model-webpack.git
